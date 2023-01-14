@@ -48,6 +48,10 @@
     function printJob() {
         throw new Error('Function not implemented.');
     }
+
+    function example() {
+        throw new Error('Function not implemented')
+    }
     
     
 
