@@ -8,6 +8,7 @@ export interface Post {
 }
 
 
+
 export class PostService {
 
     private posts: Post[] = [];
