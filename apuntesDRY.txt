@@ -1,0 +1,9 @@
+DRY: Don’t Repeat Yourself
+
+Esta es una regla de oro, que nos obliga a ir aplicando muchos de los otros principios e incluso los patrones. 
+En el momento en que comenzamos a duplicar códigos fuentes, hay que refactorizar, y cuanto antes mejor.
+
+La solución a esto siempre va a pasar por hacer objetos, funciones, dividir en ficheros correctamente..
+ para poder reutilizar los códigos fuentes sin tener repeticiones de código fuente.
+
+Tener código repetido hace muy costoso el mantenimiento, y es síntoma de mala calidad en la programación.

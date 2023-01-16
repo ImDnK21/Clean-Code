@@ -1,0 +1,12 @@
+    Singleton: hay que evitar usar singletones en todas partes, son muy útiles, pero es un error usarlos cuando no es necesario.
+
+    Tight coupling: hay que evitar el alto acomplamiento entre las clases.
+
+    Untestability: el código no testeable.
+
+    Premature optimization: no conviene invertir tiempo añadiendo complejidad en optimizaciones antes de tiempo.
+
+    Indescriptive naming: nombrar las variables, métodos, clases.. correctamente, 
+    es una parte muy importante para hacer mantenible un programa y conseguir que funcione lo mejor posible.
+    
+    Duplication: hace referencia al principio DRY.

@@ -1,0 +1,7 @@
+KISS: Keep It Simple Stupid
+
+Cuanto más simple sea un programa mejor. Si se puede hacer algo por reducir su complejidad, adelante. 
+Se pueden dividir los problemas en otros más simples, más legibles, hacer funciones, objetos, nombres de variables simples, eliminar todo lo innecesario.
+
+Es decir, tiene que ser simple y que funcione. Mejor no hacer malabares innecesarios en los códigos fuentes, 
+y usar la menor cantidad posible de código siempre que quede bien legible.
